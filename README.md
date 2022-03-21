@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding games
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on games
-- 😊 You can support me by sharing my prjects
+- 😊 You can support me by sharing my projects
 
 <!---
 Useranem/Useranem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
